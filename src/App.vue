@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <DogMaingi msg="Welcome to Your Vue.js App"/>
+  <DogMain msg="Welcome to Your Vue.js App"/>
 </template>
 
 <script>
