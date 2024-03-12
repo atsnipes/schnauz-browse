@@ -1,21 +1,21 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <DogMaingi msg="Welcome to Your Vue.js App"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import DogMain from './components/DogMain.vue'
 
 export default {
-  name: 'App',
+  name: 'DogMain',
   components: {
-    HelloWorld
+    DogMain
   }
 }
 </script>
 
 <style>
-#app {
+#schnauz {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
